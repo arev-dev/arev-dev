@@ -5,7 +5,7 @@
 
 
 ## About Me
-##### I'm a 19-year-old growing Jr developer from El Salvador. I'm specializing in web development, although I also have 3 years of experience in video game development.
+##### I'm a 19-year-old Jr. developer from El Salvador who is still growing in the field. While I'm currently specialized in desktop development, my goal is to become proficient in web development. Additionally, I have 3 years of experience in game development
 
 ## Skills 👨🏻‍💻
 * ##### Java with NetBeans IDE
