@@ -5,15 +5,15 @@
 
 
 ## About Me
-##### I'm a 19-year-old Jr. developer from El Salvador who is still growing in the field. While I'm currently specialized in desktop development, my goal is to become proficient in web development. Additionally, I have 3 years of experience in game development
+#### I'm a 19-year-old Jr. developer from El Salvador who is still growing in the field. While I'm currently specialized in desktop development, my goal is to become proficient in web development. Additionally, I have 3 years of experience in game development
 
 ## Skills 👨🏻‍💻
-* ##### Java with NetBeans IDE
-* ##### C# with Visual Studio IDE and .NetFramework
-* ##### Mysql
-* ##### Godot Engine
+* #### Java with NetBeans IDE
+* #### C# with Visual Studio IDE and .NetFramework
+* #### Mysql
+* #### Godot Engine
 
 ## Contact Me 📧
-##### You can reach me through:
-- ##### Email arevdevgames@gmail.com
-- ##### Twitter via DM https://twitter.com/arevdev
+#### You can reach me through:
+- #### Email arevdevgames@gmail.com
+- #### Twitter via DM https://twitter.com/arevdev
