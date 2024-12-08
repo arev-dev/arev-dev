@@ -44,10 +44,3 @@ Soy un desarrollador **Full Stack especializado en .NET** con experiencia en el 
 
 🌐 **[Ecommerce - Click & Shop (2024)](https://github.com/kedatech/springboot-ecommerce)**  
 **Tecnologías:** Java, Springboot, Thymeleaf 
-
----
-
-## GitHub Stats 📊
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arev-dev&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arev-dev&layout=compact&theme=dark&hide_border=true)
