@@ -1,22 +1,53 @@
+[![Group-10-2.png](https://i.postimg.cc/bvFq9yXN/Group-10-2.png)](https://postimg.cc/Y4YcpwqJ)
 # Hey! 👋🏻
 
-<!-- ![Banner](https://i.postimg.cc/DzXgSM8z/perfil-Habilidades.png) -->
-
 ## About Me
-#### I'm a 20-year-old Jr. developer from El Salvador who is still growing in the field. While I'm currently specialized in backend development with .Net, my goal is to become proficient in web development. Additionally, I have 3 years of experience in game development with Godot Engine!
+### 🌟 **Full Stack .NET Developer**
+Soy un desarrollador **Full Stack especializado en .NET** con experiencia en el desarrollo de aplicaciones backend y sólidos conocimientos en frontend. Mi objetivo es proporcionar soluciones de software innovadoras, eficientes y de calidad. Además, tengo experiencia en desarrollo de videojuegos con **Godot Engine**.
 
-### 🌟 **Quick Facts:**
-- 🎮 **Game Developer:** 3 years of experience crafting games with Godot Engine.
-- 💻 **Backend Enthusiast:** Passionate about building web and Desktop aplications with Java and C#.
-- 📚 **Continuous Learner:** Always eager to learn and explore new technologies.
-  
+📍 **El Salvador**  
+🎓 **3 años de experiencia en desarrollo de software y videojuegos**  
+🚀 **Apasionado por la tecnología y el aprendizaje continuo**
+
+---
+
 ## Skills 👨🏻‍💻
-* #### **Java with NetBeans IDE:** Crafting efficient backend solutions.
-* #### **C# with Visual Studio IDE and .NetFramework:** Building scalable and maintainable applications.
-* #### **Databases:** Mysql, SQLServer.
-* #### **Godot Engine:** Creating engaging game experiences.
+### **Frontend** 🖌️  
+- HTML, CSS, JavaScript  
+- React, Tailwind, Bootstrap  
+- Next.js  
 
+### **Backend** 🔧  
+- **.NET Framework & .NET Core**: Desarrollo de APIs robustas con **ASP.NET**  
+- Node.js & Express.js  
+- Bases de Datos: **MySQL** y **SQL Server**  
 
+### **Game Development** 🎮  
+- 3 años creando experiencias de juego inmersivas con **Godot Engine**  
+
+### **Herramientas** 🛠️  
+- GIT/GitHub  
+- Figma  
+- Balsamiq Mockups  
+
+---
+
+## Featured Projects 📂
+🌐 **[Sistema de Votación Aniversario ESFE/AGAPE (2023)](https://github.com/kedatech/esfe-votacion-backend)**  
+**Tecnologías:** JavaScript, React, QR Codes
+
+🌐 **[Foro web de Programación Q&A para ESFE/AGAPE (2023)](https://github.com/arev-dev/your-bug-aspx-website)**  
+**Tecnologías:** .NET ASP, JavaScript
+
+🌐 **[Red Social de Desarrollo de Software - YouCode (2024)](https://github.com/kedatech/YouCode)**  
+**Tecnologías:** .NET ASP, JavaScript, Docker  
+
+🌐 **[Ecommerce - Click & Shop (2024)](https://github.com/kedatech/springboot-ecommerce)**  
+**Tecnologías:** Java, Springboot, Thymeleaf 
+
+---
+
+## GitHub Stats 📊
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arev-dev&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arev-dev&layout=compact&theme=dark&hide_border=true)
